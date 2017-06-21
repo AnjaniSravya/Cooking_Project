@@ -1,0 +1,21 @@
+body{
+    background-color:lightsteelblue;
+}
+.padding {
+    margin-top: 15.5%;
+    padding: 0 10%;
+    margin-right: 2%;
+}
+.padding form{
+    padding:5% 8%;
+    background-color:white;
+    border-radius:22px;
+    border:2px solid aliceblue;
+}
+.form-control{
+    margin-bottom:15px;
+    border-radius:22px;
+}
+.btn-block{
+    border-radius:22px;
+}
