@@ -1,0 +1,19 @@
+.padding{
+    margin-top:5%;
+    margin-right: 15px;
+}
+.navbar{
+    background-color:lightblue;
+}
+.navbar-right{
+    margin-right: 0;
+    margin-top: 10px;
+}
+.table {
+    border-collapse: collapse;
+    border-spacing: 10px;
+}
+td,
+th {
+    padding: 8%;
+}

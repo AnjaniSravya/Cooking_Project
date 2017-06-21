@@ -1,0 +1,19 @@
+.padding{
+    margin-top:2%;
+    margin-right: 15px;
+}
+.navbar{
+    background-color:lightblue;
+}
+.navbar-right{
+    margin-right: 0;
+    margin-top: 10px;
+}
+.padding form{
+    padding:3% 5%;
+    background-color: beige;
+
+}
+.padding form h2{
+    margin-bottom:20px;
+}
